@@ -1,0 +1,5 @@
+BotFather   бот выдает токен
+TmnbestBot  название бота
+5523966143:AAFIlOX_x-RxyJkMajZjnJ9MxXDrd382vJ4    токен
+/newbot запрос на создание бота
+/setname установить имя бота
